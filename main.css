@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header{
+    margin: 48px 0;
+}
+
+form{
+    width: 80%;
+}
+
+.campo-formulario{
+    margin-bottom: 14px;
+}
+
+.campo-formulario label,
+.campo-formulario input{
+    display: block;
+}
+
+.campo-formulario label{
+    margin-bottom: 4px;
+}
+
+.campo-formulario input{
+    width: 45%;
+    padding: 8px 4px;
+}
